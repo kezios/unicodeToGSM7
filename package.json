@@ -3,14 +3,16 @@
   "version": "1.0.0",
   "description": "Typescript unicode string to GSM7 string conversion for SMS messaging",
   "author": "Maxime SENGER <maxime.senger@kezios.fr>",
-  "homepage": "https://github.com/jasonsturges/vite-typescript-npm-package",
-  "repository": "github:jasonsturges/vite-typescript-npm-package",
+  "homepage": "https://github.com/kezios/unicodeToGSM7",
+  "repository": "github:kezios/unicodeToGSM7",
   "license": "ISC",
   "keywords": [
-    "vite",
     "typescript",
     "npm",
-    "package"
+    "package",
+    "unicode",
+    "gsm7",
+    "sms"
   ],
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
